@@ -3,6 +3,7 @@ abstract class Cadastro ( private val nome:String,  private var endereco:String,
 
     private val metPag = Int
 
+    //EU ODEIO DIGITAR, MEDITAÇÃO GUIADA
 
 }
 
