@@ -1,7 +1,10 @@
 # APP ONG | KOTLIN
 *_a imagem exibida é apenas o prótotipo inicial do projeto podendo sofrer alterações futuras_
 
-![Design sem nome (1)](https://user-images.githubusercontent.com/74657202/158248055-c2d215f1-0e6f-4248-8a5e-bab0b781fcef.png)
+
+
+![Design sem nome (1)](https://user-images.githubusercontent.com/74657202/158250407-8e2a116a-f161-42dd-8e66-1ae57f278ef8.png)
+
 <h4>💻 Sobre o projeto:</h4>
 
 "App Ong" - Projeto final do módulo de Introdução e desenvolvimento da linguagem de programação Kotlin feito durante o curso  Desenvolvimento Mobile - Kotlin Java da Generation Brasil.
