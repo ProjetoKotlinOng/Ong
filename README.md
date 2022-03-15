@@ -16,8 +16,6 @@ Nele simulamos o sistema de um aplicativo que tem como intuito conectar ongs e d
 
 - Conectar ongs e doadores
 
-- Login através de e-mail e senha
-
 - Tela de Cadastro para ong e doador
 
 - Opção de pagamento pix ou conta corrente
